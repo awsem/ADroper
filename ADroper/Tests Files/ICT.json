@@ -1,0 +1,1586 @@
+[
+  {
+    "Title": "ELEMENTS OF PROGRAMMING",
+    "Code": "CSC 1100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "OBJECT ORIENTED PROGRAMMING",
+    "Code": "CSC 1103",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "TUE" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "MON", "MON", "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "", "", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "TUTOR" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "THUR" ],
+        "Lecturers": [ "NORZALIZA BINTI MD NOR", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO COMPUTER ORGANIZATION",
+    "Code": "CSC 1401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO SOFTWARE ENGINEERING",
+    "Code": "CSC 1501",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROBABILITY AND STATISTICS",
+    "Code": "CSC 1706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING I",
+    "Code": "CSC 1707",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHMS I",
+    "Code": "CSC 2104",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "TUE" ],
+        "Lecturers": [ "PROF. DR. IMAD FAKHRI TAHA ALYASEEN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER NETWORKING",
+    "Code": "CSC 2201",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ZULKEFLI BIN MUHAMMED YUSOF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RIZAL BIN MOHD. NOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTELLIGENT SYSTEMS",
+    "Code": "CSC 2301",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "DIGITAL SYSTEMS FUNDAMENTAL",
+    "Code": "CSC 2401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF IT SECURITY",
+    "Code": "CSC 2602",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HAFIZAH BINTI MANSOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING II",
+    "Code": "CSC 2706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHM II",
+    "Code": "CSC 3102",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIG DATA ANALYTICS",
+    "Code": "CSC 3303",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA SCIENCE",
+    "Code": "CSC 3305",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "OPERATING  SYSTEM",
+    "Code": "CSC 3401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DATO' PROF. DR. NORBIK BASHAH BIN IDRIS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI" ]
+      }
+    ]
+  },
+  {
+    "Title": "ELEMENTS OF PROGRAMMING",
+    "Code": "CSC 1100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "OBJECT ORIENTED PROGRAMMING",
+    "Code": "CSC 1103",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "TUE" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "MON", "MON", "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "", "", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "TUTOR" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "THUR" ],
+        "Lecturers": [ "NORZALIZA BINTI MD NOR", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO COMPUTER ORGANIZATION",
+    "Code": "CSC 1401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO SOFTWARE ENGINEERING",
+    "Code": "CSC 1501",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROBABILITY AND STATISTICS",
+    "Code": "CSC 1706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING I",
+    "Code": "CSC 1707",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHMS I",
+    "Code": "CSC 2104",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "TUE" ],
+        "Lecturers": [ "PROF. DR. IMAD FAKHRI TAHA ALYASEEN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER NETWORKING",
+    "Code": "CSC 2201",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ZULKEFLI BIN MUHAMMED YUSOF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RIZAL BIN MOHD. NOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTELLIGENT SYSTEMS",
+    "Code": "CSC 2301",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "DIGITAL SYSTEMS FUNDAMENTAL",
+    "Code": "CSC 2401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF IT SECURITY",
+    "Code": "CSC 2602",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HAFIZAH BINTI MANSOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING II",
+    "Code": "CSC 2706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHM II",
+    "Code": "CSC 3102",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIG DATA ANALYTICS",
+    "Code": "CSC 3303",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA SCIENCE",
+    "Code": "CSC 3305",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "OPERATING  SYSTEM",
+    "Code": "CSC 3401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DATO' PROF. DR. NORBIK BASHAH BIN IDRIS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI" ]
+      }
+    ]
+  },
+  {
+    "Title": "ELEMENTS OF PROGRAMMING",
+    "Code": "CSC 1100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "OBJECT ORIENTED PROGRAMMING",
+    "Code": "CSC 1103",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "TUE" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "MON", "MON", "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "", "", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "TUTOR" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "THUR" ],
+        "Lecturers": [ "NORZALIZA BINTI MD NOR", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO COMPUTER ORGANIZATION",
+    "Code": "CSC 1401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO SOFTWARE ENGINEERING",
+    "Code": "CSC 1501",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROBABILITY AND STATISTICS",
+    "Code": "CSC 1706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING I",
+    "Code": "CSC 1707",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHMS I",
+    "Code": "CSC 2104",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "TUE" ],
+        "Lecturers": [ "PROF. DR. IMAD FAKHRI TAHA ALYASEEN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER NETWORKING",
+    "Code": "CSC 2201",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ZULKEFLI BIN MUHAMMED YUSOF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RIZAL BIN MOHD. NOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTELLIGENT SYSTEMS",
+    "Code": "CSC 2301",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "DIGITAL SYSTEMS FUNDAMENTAL",
+    "Code": "CSC 2401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF IT SECURITY",
+    "Code": "CSC 2602",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HAFIZAH BINTI MANSOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING II",
+    "Code": "CSC 2706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHM II",
+    "Code": "CSC 3102",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIG DATA ANALYTICS",
+    "Code": "CSC 3303",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA SCIENCE",
+    "Code": "CSC 3305",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "OPERATING  SYSTEM",
+    "Code": "CSC 3401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DATO' PROF. DR. NORBIK BASHAH BIN IDRIS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI" ]
+      }
+    ]
+  },
+  {
+    "Title": "ELEMENTS OF PROGRAMMING",
+    "Code": "CSC 1100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "SURIANI BT. SULAIMAN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "THUR" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "OBJECT ORIENTED PROGRAMMING",
+    "Code": "CSC 1103",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "TUE" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "MON", "MON", "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "", "", "", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "MON", "WED", "MON" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI", "", "TUTOR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORSAREMAH BT. SALLEH", "TUTOR" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "THUR" ],
+        "Lecturers": [ "NORZALIZA BINTI MD NOR", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO COMPUTER ORGANIZATION",
+    "Code": "CSC 1401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SITI ASMA BINTI MOHAMMED" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "NOOR AZURA BINTI ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO SOFTWARE ENGINEERING",
+    "Code": "CSC 1501",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. AZLIN BINTI NORDIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. NORMI SHAM BT. AWANG ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROBABILITY AND STATISTICS",
+    "Code": "CSC 1706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. AFIDALINA BINTI TUMIAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING I",
+    "Code": "CSC 1707",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHMS I",
+    "Code": "CSC 2104",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MAZNAH BT AHMAD", "TUTOR" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "TUE" ],
+        "Lecturers": [ "PROF. DR. IMAD FAKHRI TAHA ALYASEEN", "TUTOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "TUE" ],
+        "Lecturers": [ "DR. HAMWIRA SAKTI BIN YAACOB", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER NETWORKING",
+    "Code": "CSC 2201",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ZULKEFLI BIN MUHAMMED YUSOF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RIZAL BIN MOHD. NOR" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ADAMU ABUBAKAR IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTELLIGENT SYSTEMS",
+    "Code": "CSC 2301",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "DIGITAL SYSTEMS FUNDAMENTAL",
+    "Code": "CSC 2401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF IT SECURITY",
+    "Code": "CSC 2602",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF NORMAZIAH BINTI ABDUL AZIZ" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HAFIZAH BINTI MANSOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "MATHEMATICS FOR COMPUTING II",
+    "Code": "CSC 2706",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM", "5 - 6.50 PM" ],
+        "Days": [ "T-TH", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM", "5 - 6.50 PM" ],
+        "Days": [ "M-W", "MON" ],
+        "Lecturers": [ "DR. MESSIKH AZ EDDINE", "TUTOR" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA STRUCTURES AND ALGORITHM II",
+    "Code": "CSC 3102",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SHERZOD TURAEV" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIG DATA ANALYTICS",
+    "Code": "CSC 3303",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RAINI BINTI HASSAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "DATA SCIENCE",
+    "Code": "CSC 3305",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AMELIA RITAHANI BT. ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "OPERATING  SYSTEM",
+    "Code": "CSC 3401",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DATO' PROF. DR. NORBIK BASHAH BIN IDRIS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ALI A. ALWAN ALJUBOORI" ]
+      }
+    ]
+  }
+]

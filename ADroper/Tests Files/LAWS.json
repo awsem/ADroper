@@ -1,0 +1,1490 @@
+[
+  {
+    "Title": "MALAYSIAN LEGAL SYSTEM",
+    "Code": "LAW 1020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. FARID SUFIAN BIN SHUAIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORMI BT ABD MALEK" ]
+      }
+    ]
+  },
+  {
+    "Title": "LEGAL METHOD",
+    "Code": "LAW 1030",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 2.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "TUE", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "THUR", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM", "2 - 2.50 PM" ],
+        "Days": [ "MON", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM", "3 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 7,
+        "Times": [ "12 - 12.50 PM", "11 - 12.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 8,
+        "Times": [ "8 - 9.50 AM", "2 - 2.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 9,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "MON", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 10,
+        "Times": [ "2 - 2.50 PM", "8 - 9.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "MOHD. DARBI BIN HASHIM", "" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT I",
+    "Code": "LAW 1210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. IDA MADIEHA BT. ABDUL GHANI AZMI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NORHASHIMAH BT. MOHD. YASIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT II",
+    "Code": "LAW 1211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MOHD. YAZID BIN ZUL KEPLI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MAHYUDDIN BIN DAUD" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORIAH BT RAMLI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. WAN MOHD. ZULHAFIZ BIN WAN ZAHARI" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS I",
+    "Code": "LAW 1510",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SONNY ZULHUDA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS II",
+    "Code": "LAW 1511",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. MUSHERA BIBI BT. AMBARAS KHAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MUHAMAD HASSAN BIN AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPULSORY MOOTS",
+    "Code": "LAW 2020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW I",
+    "Code": "LAW 2220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORLIAH BT IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW II",
+    "Code": "LAW 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW I",
+    "Code": "LAW 2250",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOOR SHUHADAWATI BINTI MOHAMAD AMIN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SHAMRAHAYU BINTI AB AZIZ" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW II",
+    "Code": "LAW 2251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. NIK AHMAD KAMAL BIN NIK MAHMOD" ]
+      }
+    ]
+  },
+  {
+    "Title": "CRIMINAL LAW I",
+    "Code": "LAW 2310",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHAMSHINA BT. MOHAMAD HANIFA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL HASEEB ANSARI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MAZLENA BINTI MOHAMAD HUSSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "MALAYSIAN LEGAL SYSTEM",
+    "Code": "LAW 1020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. FARID SUFIAN BIN SHUAIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORMI BT ABD MALEK" ]
+      }
+    ]
+  },
+  {
+    "Title": "LEGAL METHOD",
+    "Code": "LAW 1030",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 2.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "TUE", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "THUR", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM", "2 - 2.50 PM" ],
+        "Days": [ "MON", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM", "3 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 7,
+        "Times": [ "12 - 12.50 PM", "11 - 12.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 8,
+        "Times": [ "8 - 9.50 AM", "2 - 2.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 9,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "MON", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 10,
+        "Times": [ "2 - 2.50 PM", "8 - 9.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "MOHD. DARBI BIN HASHIM", "" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT I",
+    "Code": "LAW 1210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. IDA MADIEHA BT. ABDUL GHANI AZMI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NORHASHIMAH BT. MOHD. YASIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT II",
+    "Code": "LAW 1211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MOHD. YAZID BIN ZUL KEPLI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MAHYUDDIN BIN DAUD" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORIAH BT RAMLI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. WAN MOHD. ZULHAFIZ BIN WAN ZAHARI" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS I",
+    "Code": "LAW 1510",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SONNY ZULHUDA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS II",
+    "Code": "LAW 1511",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. MUSHERA BIBI BT. AMBARAS KHAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MUHAMAD HASSAN BIN AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPULSORY MOOTS",
+    "Code": "LAW 2020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW I",
+    "Code": "LAW 2220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORLIAH BT IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW II",
+    "Code": "LAW 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW I",
+    "Code": "LAW 2250",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOOR SHUHADAWATI BINTI MOHAMAD AMIN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SHAMRAHAYU BINTI AB AZIZ" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW II",
+    "Code": "LAW 2251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. NIK AHMAD KAMAL BIN NIK MAHMOD" ]
+      }
+    ]
+  },
+  {
+    "Title": "CRIMINAL LAW I",
+    "Code": "LAW 2310",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHAMSHINA BT. MOHAMAD HANIFA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL HASEEB ANSARI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MAZLENA BINTI MOHAMAD HUSSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "MALAYSIAN LEGAL SYSTEM",
+    "Code": "LAW 1020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. FARID SUFIAN BIN SHUAIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORMI BT ABD MALEK" ]
+      }
+    ]
+  },
+  {
+    "Title": "LEGAL METHOD",
+    "Code": "LAW 1030",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 2.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "TUE", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "THUR", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM", "2 - 2.50 PM" ],
+        "Days": [ "MON", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM", "3 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 7,
+        "Times": [ "12 - 12.50 PM", "11 - 12.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 8,
+        "Times": [ "8 - 9.50 AM", "2 - 2.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 9,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "MON", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 10,
+        "Times": [ "2 - 2.50 PM", "8 - 9.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "MOHD. DARBI BIN HASHIM", "" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT I",
+    "Code": "LAW 1210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. IDA MADIEHA BT. ABDUL GHANI AZMI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NORHASHIMAH BT. MOHD. YASIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT II",
+    "Code": "LAW 1211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MOHD. YAZID BIN ZUL KEPLI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MAHYUDDIN BIN DAUD" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORIAH BT RAMLI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. WAN MOHD. ZULHAFIZ BIN WAN ZAHARI" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS I",
+    "Code": "LAW 1510",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SONNY ZULHUDA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS II",
+    "Code": "LAW 1511",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. MUSHERA BIBI BT. AMBARAS KHAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MUHAMAD HASSAN BIN AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPULSORY MOOTS",
+    "Code": "LAW 2020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW I",
+    "Code": "LAW 2220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORLIAH BT IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW II",
+    "Code": "LAW 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW I",
+    "Code": "LAW 2250",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOOR SHUHADAWATI BINTI MOHAMAD AMIN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SHAMRAHAYU BINTI AB AZIZ" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW II",
+    "Code": "LAW 2251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. NIK AHMAD KAMAL BIN NIK MAHMOD" ]
+      }
+    ]
+  },
+  {
+    "Title": "CRIMINAL LAW I",
+    "Code": "LAW 2310",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHAMSHINA BT. MOHAMAD HANIFA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL HASEEB ANSARI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MAZLENA BINTI MOHAMAD HUSSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "MALAYSIAN LEGAL SYSTEM",
+    "Code": "LAW 1020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. FARID SUFIAN BIN SHUAIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORMI BT ABD MALEK" ]
+      }
+    ]
+  },
+  {
+    "Title": "LEGAL METHOD",
+    "Code": "LAW 1030",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 2.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "TUE", "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "12 - 12.50 PM", "2 - 3.50 PM" ],
+        "Days": [ "THUR", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. AKMAL HIDAYAH BT HALIM", "" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM", "2 - 2.50 PM" ],
+        "Days": [ "MON", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM", "3 - 3.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. NORJIHAN BINTI AB AZIZ", "" ]
+      },
+      {
+        "Number": 7,
+        "Times": [ "12 - 12.50 PM", "11 - 12.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 8,
+        "Times": [ "8 - 9.50 AM", "2 - 2.50 PM" ],
+        "Days": [ "WED", "TUE" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED", "" ]
+      },
+      {
+        "Number": 9,
+        "Times": [ "9 - 9.50 AM", "2 - 3.50 PM" ],
+        "Days": [ "MON", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA", "" ]
+      },
+      {
+        "Number": 10,
+        "Times": [ "2 - 2.50 PM", "8 - 9.50 AM" ],
+        "Days": [ "WED", "MON" ],
+        "Lecturers": [ "MOHD. DARBI BIN HASHIM", "" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT I",
+    "Code": "LAW 1210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. IDA MADIEHA BT. ABDUL GHANI AZMI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NORHASHIMAH BT. MOHD. YASIN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "9 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. DURYANA BT MOHAMED" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF CONTRACT II",
+    "Code": "LAW 1211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MOHD. YAZID BIN ZUL KEPLI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MAHYUDDIN BIN DAUD" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORIAH BT RAMLI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. WAN MOHD. ZULHAFIZ BIN WAN ZAHARI" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS I",
+    "Code": "LAW 1510",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SONNY ZULHUDA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SUZI FADHILAH BT ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "LAW OF TORTS II",
+    "Code": "LAW 1511",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. MUSHERA BIBI BT. AMBARAS KHAN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MUHAMAD HASSAN BIN AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPULSORY MOOTS",
+    "Code": "LAW 2020",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "TUE" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAJDAH BINTI ZAWAWI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "MON" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "2 - 3.50 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "SITI ALIZA BINTI ALIAS" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW I",
+    "Code": "LAW 2220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORLIAH BT IBRAHIM" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BT FAUZI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FAMILY LAW II",
+    "Code": "LAW 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NORAINI BT MD HASHIM" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "11 - 11.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW I",
+    "Code": "LAW 2250",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOOR SHUHADAWATI BINTI MOHAMAD AMIN" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SHAMRAHAYU BINTI AB AZIZ" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "10 - 10.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. NOR HAFIZAH BT MOHD BADROL AFANDI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTITUTIONAL LAW II",
+    "Code": "LAW 2251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. NIK AHMAD KAMAL BIN NIK MAHMOD" ]
+      }
+    ]
+  },
+  {
+    "Title": "CRIMINAL LAW I",
+    "Code": "LAW 2310",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SHAMSHINA BT. MOHAMAD HANIFA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. ABDUL HASEEB ANSARI" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "12 - 12.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MAZLENA BINTI MOHAMAD HUSSAIN" ]
+      }
+    ]
+  }
+]

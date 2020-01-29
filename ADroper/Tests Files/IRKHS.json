@@ -1,0 +1,5462 @@
+[
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX I",
+    "Code": "ARAB 1113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY I",
+    "Code": "ARAB 1114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC FOR ISLAMIC STUDIES",
+    "Code": "ARAB 1115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HISTORY OF ARABIC LITERATURE",
+    "Code": "ARAB 1222",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MUHAMMAD ANWAR BIN AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX",
+    "Code": "ARAB 2115",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC MORPHOLOGY",
+    "Code": "ARAB 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SAUPI BIN MAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. SOLEHAH @ NIK NAJAH FADILAH BT HJ YAACOB" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. FAUZI @ FAURI B. AHMAD" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. YASIR BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "COMPUTER APPLICATION IN LANGUAGE & LITERATURE",
+    "Code": "ARAB 2124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. HASLINA BINTI HASSAN" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 4,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 5,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHD. FEHAM BIN MD GHALIB" ]
+      },
+      {
+        "Number": 6,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-BAYAN",
+    "Code": "ARAB 2212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      },
+      {
+        "Number": 3,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. MA'AHAD BIN MOKHTAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO TRANSLATION",
+    "Code": "ARAB 2215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK" ]
+      }
+    ]
+  },
+  {
+    "Title": "JAHILI & ISLAMIC POETRY TEXTS",
+    "Code": "ARAB 2221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ADLI BIN YAACOB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC PROSE TEXTS",
+    "Code": "ARAB 2230",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC LEXICOGRAPHY",
+    "Code": "ARAB 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NAFI @ HANAFI BIN DOLLAH" ]
+      }
+    ]
+  },
+  {
+    "Title": "RESEARCH METHODOLOGY",
+    "Code": "ARAB 2999",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 12.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARABIC SYNTAX III",
+    "Code": "ARAB 3111",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "3.30 - 4.50 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. ABD WAHAB BIN ZAKARIA" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO GENERAL LINGUISTICS",
+    "Code": "ARAB 3113",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 3.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTION TO APPLIED LINGUISTICS",
+    "Code": "ARAB 3124",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RADHWA BINTI ABU BAKAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "SCIENCE OF AL-MA'ANI",
+    "Code": "ARAB 3214",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 6.20 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. BADRI NAJIB BIN ZUBIR" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD" ]
+      }
+    ]
+  },
+  {
+    "Title": "ABBASID & ANDALUSIAN POETRY TEXTS",
+    "Code": "ARAB 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 11.20 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "DR. ABDUL HALIM BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "TRADITIONAL CRITICISM",
+    "Code": "ARAB 3221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASR EL DIN IBRAHIM AHMED HUSSEIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "QUR'ANIC AND PROPHETIC TEXTS",
+    "Code": "ARAB 3324",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 9.50 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. TAUFIK BIN ISMAIL" ]
+      }
+    ]
+  }
+]

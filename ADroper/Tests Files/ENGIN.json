@@ -1,0 +1,7058 @@
+[
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTE 3212",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTE 3215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "CELL AND TISSUE ENGINEERING",
+    "Code": "BTE 3471",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTE 3481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTEGRATED DESIGN PROJECT",
+    "Code": "BTE 4100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT I",
+    "Code": "BTE 4198",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "MOHD NAZRI BIN MOHD NAWI", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROJECT II",
+    "Code": "BTE 4199",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "9 - 12 AM", "9 - 12 AM" ],
+        "Days": [ "FRI", "FRI" ],
+        "Lecturers": [ "DR. NOOR ILLI BINTI MOHAMAD PUAD", "DR. AMANATUZZAKIAH ABDUL HALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "SOLID WASTE ENGINEERING",
+    "Code": "BTE 4215",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. HUSNA BINTI AHMAD TAJUDDIN", "PROF. DR. MD NOOR BIN SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOMASS ENERGY",
+    "Code": "BTE 4216",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "FOOD PROCESS ENGINEERING",
+    "Code": "BTE 4220",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. IRWANDI JASWIR" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIO-PHARMACEUTICAL MANUFACTURING",
+    "Code": "BTE 4221",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR FARMING (BIOMOLECULAR)",
+    "Code": "BTE 4232",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM", "3.30 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "ARTIFICIAL TISSUE ENGINEERING",
+    "Code": "BTE 4234",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "CARBON NANOMATERIALS AND APPLICATIONS",
+    "Code": "BTE 4241",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIONANOTECHNOLOGY",
+    "Code": "BTE 4251",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. WAN MOHD FAZLI BIN WAN NAWAWI", "DR. WAN WARDATUL AMANI BINTI WAN SALIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+    "Code": "BTE 4412",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTE 4416",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTE 4417",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES II",
+    "Code": "BTE 4481",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. DZUN NORAINI BINTI JIMAT", "PROF. DR. HAMZAH MOHD. SALLEH" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB I",
+    "Code": "BTEN 2181",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 4.50 PM", "2 - 4.50 PM", "2 - 4.50 PM" ],
+        "Days": [ "T-TH", "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "THUR", "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL", "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB II",
+    "Code": "BTEN 2182",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      },
+      {
+        "Number": 2,
+        "Times": [ "10 - 12.50 AM", "10 - 12.50 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "DR. MA'AN FAHMI RASHID AL-KHATIB" ]
+      }
+    ]
+  },
+  {
+    "Title": "INTRODUCTORY MICROBIOLOGY",
+    "Code": "BTEN 2210",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. RAHA BINTI AHMAD RAUS" ]
+      }
+    ]
+  },
+  {
+    "Title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+    "Code": "BTEN 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "PROF. DR. PARVEEN JAMAL" ]
+      }
+    ]
+  },
+  {
+    "Title": "THERMODYNAMICS",
+    "Code": "BTEN 2312",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MOHD. FIRDAUS BIN ABD. WAHAB", "DR. NOR FADHILLAH BT. MOHAMED AZMIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+    "Code": "BTEN 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD", "MOHD NAZRI BIN MOHD NAWI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+    "Code": "BTEN 2314",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "15.30 - 5 PM", "15.30 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. YUSILAWATI BINTI AHMAD NOR", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOCHEMISTRY",
+    "Code": "BTEN 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MOHAMED ELWATHIG SAEED MIRGHANI", "PROF. DR. FARIDAH BT. YUSOF" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEMINAR",
+    "Code": "BTEN 3100",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3 - 5 PM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "DR. FARAH BINTI AHMAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB III",
+    "Code": "BTEN 3183",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "IZNI BAZILAH BINTI ABD. RAZAK" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+    "Code": "BTEN 3184",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "ASSOC. PROF. DR. MAIZIRWAN MEL" ]
+      }
+    ]
+  },
+  {
+    "Title": "PROCESS PLANT DESIGN & SAFETY",
+    "Code": "BTEN 3292",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "SARINA BT. SULAIMAN", "DR. DZUN NORAINI BINTI JIMAT" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENVIRONMENTAL ENGINEERING",
+    "Code": "BTEN 3316",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. NOOR FAIZUL HADRY BIN NORDIN", "DR. MARINI BINTI OTHMAN" ]
+      }
+    ]
+  },
+  {
+    "Title": "REACTION ENGINEERING",
+    "Code": "BTEN 3317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. AMANATUZZAKIAH ABDUL HALIM", "PROF. DR. IBRAHIM ALI NOOR BATCHA" ]
+      }
+    ]
+  },
+  {
+    "Title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+    "Code": "BTEN 3318",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "DR. FAZIA ADYANI BINTI AHMAD FUAD", "ASSOC. PROF. DR. AZURA BT. AMID" ]
+      }
+    ]
+  },
+  {
+    "Title": "SEPARATION PROCESSES I",
+    "Code": "BTEN 3319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM", "11.30 - 1 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. MA'AN FAHMI RASHID AL-KHATIB", "DR. NOOR ILLI BINTI MOHAMAD PUAD" ]
+      }
+    ]
+  },
+  {
+    "Title": "HEAT AND MASS TRANSFER",
+    "Code": "BTEN 3320",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "8.30 - 10 AM", "8.30 - 10 AM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "MARIATUL FADZILLAH BT MANSOR", "ASSOC. PROF. DR. MOHAMMED SAEDI JAMI" ]
+      }
+    ]
+  },
+  {
+    "Title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+    "Code": "BTEN 4321",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM", "2 - 3.30 PM" ],
+        "Days": [ "T-TH", "T-TH" ],
+        "Lecturers": [ "PROF. DR. NASSERELDEEN AHMED KABBASHI", "PROF. DR. MD ZAHANGIR ALAM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY PRACTICAL",
+    "Code": "CIVE 2112",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 1 AM" ],
+        "Days": [ "FRI" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING DRAWING",
+    "Code": "CIVE 2114",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 8 PM" ],
+        "Days": [ "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB I",
+    "Code": "CIVE 2116",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "MON", "MON", "MON" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI", "IR. IZIHAN BIN IBRAHIM", "DR. NADIAH BINTI MD. HUSAIN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING LAB II",
+    "Code": "CIVE 2121",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 5 PM", "2 - 5 PM", "2 - 5 PM" ],
+        "Days": [ "WED", "WED", "WED" ],
+        "Lecturers": [ "ASSOC. PROF. DR. MUHAMMAD ABU EUSUF", "TO BE DETERMINED", "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "ENGINEERING SURVEY",
+    "Code": "CIVE 2211",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "5 - 7 PM" ],
+        "Days": [ "THUR" ],
+        "Lecturers": [ "SAMSUDDIN BIN JAAFAR" ]
+      }
+    ]
+  },
+  {
+    "Title": "WATER RESOURCES AND HYDROLOGY",
+    "Code": "CIVE 2223",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "TUE", "TUE" ],
+        "Lecturers": [ "PROF. DR. MD NOOR BIN SALLEH", "PROF. ABDULLAH AL-MAMUN" ]
+      }
+    ]
+  },
+  {
+    "Title": "CONSTRUCTION ENGINEERING",
+    "Code": "CIVE 2225",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 12 AM", "10 - 12 AM" ],
+        "Days": [ "THUR", "THUR" ],
+        "Lecturers": [ "PROF. DR. JAMALUDIN BIN MAT", "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  },
+  {
+    "Title": "FLUID MECHANICS",
+    "Code": "CIVE 2313",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "10 - 11.30 AM", "10 - 11.30 AM" ],
+        "Days": [ "M-W", "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM", "IR. IZIHAN BIN IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "GEOLOGY AND SOIL MECHANICS",
+    "Code": "CIVE 2315",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "11.30 - 1 AM" ],
+        "Days": [ "M-W" ],
+        "Lecturers": [ "DR. SAERAHANY LEGORI IBRAHIM" ]
+      }
+    ]
+  },
+  {
+    "Title": "STRENGTH OF MATERIALS",
+    "Code": "CIVE 2317",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "2 - 3.30 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "TO BE DETERMINED" ]
+      }
+    ]
+  },
+  {
+    "Title": "CIVIL ENGINEERING MATERIALS",
+    "Code": "CIVE 2319",
+    "Sections": [
+      {
+        "Number": 1,
+        "Times": [ "3.30 - 5 PM" ],
+        "Days": [ "T-TH" ],
+        "Lecturers": [ "PROF. DR. MAISARAH BT ALI" ]
+      }
+    ]
+  }
+]
